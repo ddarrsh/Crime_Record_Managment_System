@@ -56,3 +56,11 @@ Installation/Setup
 5.Create a new database naming bijapurpolice.
 6.Import the provided SQL file. The file is known as ghpolice.sql located inside the DB File folder.
 7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.
+
+
+Admin:
+UserName: 100
+Password: djain123
+
+UserName:101
+Password: agarwal123
