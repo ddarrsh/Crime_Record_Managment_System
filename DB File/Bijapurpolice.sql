@@ -150,13 +150,14 @@ CREATE TABLE `userlogin` (
 
 INSERT INTO `userlogin` (`id`, `staffid`, `status`, `password`, `surname`, `othernames`) VALUES
 (0, '110', 'CID', '3c2bda6c9791e85f0b5ea4347082ebe68a1e9a04', 'MD Kaif ', 'Shaikh'),/*shaikh123*/
-(0, '111','CID','8ebc927ce0c64d37344453b26e24f45f44e08a72','Darsh','Jain'),/*jain123*/
-(0, '112', 'Admin','abab93c9f7ca05823e28d626115b8df017bb6029', 'Harsh', 'Agarwal'),/*agarwal123*/
+(0, '101','Admin','abab93c9f7ca05823e28d626115b8df017bb6029','Harsh','Agarwal'),/*agarwal123*/
+(0, '100', 'Admin','f939b7d7987c3c5124a9a5d796fc01fc0f952b47', 'Darsh', 'Jain'),/*djain123*/
 (0, '113', 'NCO', '2d4f146807cb69cf5ea09357aa9e2c68dc468b96', 'Akshat', 'Jain'),/*ajay123*/
 (0, '114', 'NCO', '44b6197957aa5465c60e7c7db043e546c341ccdb', 'Aman', 'Usmani'),/*usmani123*/
 (0, '115', 'CID', 'fa765795ac7d2c16547e9df4b233d46803b117bc', 'Girish', 'Sukali'),/*sukali123*/
 (0, '116', 'CID', '24aaac9c21ab0a29ed5fae0fcaab75c6a1ec0495', 'Abusufiyan', 'Attar'),/*attar123*/
 (0, '117', 'NCO', '45d83f57a5fd78f32fbaef4980c03f65b8dd2406', 'Musaveer', 'Bijapur');/*bijapur123*/
+
 
 --
 -- Indexes for dumped tables
