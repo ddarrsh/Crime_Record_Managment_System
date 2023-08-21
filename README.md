@@ -3,14 +3,25 @@ Welcome to the "Crime Record Management System" GitHub Repository!
 This repository hosts a comprehensive Database Management System (DBMS) project aimed at enhancing crime record management and analysis. Our project is designed to streamline the process of recording, organizing, and analyzing criminal activities, ensuring a more efficient and data-driven approach for law enforcement agencies.
 
 Key Features:
-
-User-Centric Interfaces: Our Crime Record Management System offers three distinct user interfaces - CID (Criminal Investigation Department) personnel, administrators, and officers. This division ensures role-based access, granting the right permissions and functionalities to each user category.
-
-CID Interface: This interface caters specifically to the needs of Criminal Investigation Department personnel. It allows for the seamless recording, tracking, and updating of criminal cases. The intuitive design enables efficient data entry and retrieval, contributing to quicker investigations.
-
-Admin Interface: The administrator interface empowers authorized personnel to manage user accounts, oversee system operations, and maintain data integrity. Administrators can monitor system activities and perform necessary maintenance tasks.
-
-Officer Interface: Designed for law enforcement officers, this interface provides a simplified view of case details, enabling officers to access relevant information swiftly and make informed decisions in the field.
+  
+  Admin
+    Admin Dashboard
+    View Staff List
+    Assign case to CID Officer
+    Manage Account
+  NCO
+    NCO Dashboard
+    Register a Complain
+    View list of complains
+    View details of case investigation
+    Assign a case CID Officer
+    Manage Account/Change Password
+  CID
+    CID Dashboard
+    View list of cases assigned
+    View details of case investigation
+    Write a report on the case being investigated
+    Manage Account/Change Password
 
 Technologies Used: Our project employs a robust tech stack including PHP, HTML, JavaScript, CSS, and MySQL. PHP ensures dynamic data processing, while HTML and CSS contribute to the user-friendly interface. JavaScript enhances interactivity and a smooth user experience. MySQL acts as the backend database, ensuring secure data storage and retrieval.
 
