@@ -58,9 +58,21 @@ Installation/Setup
 7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.
 
 
-Admin: ##
-UserName: 100 ##
-Password: djain123 ##
- 
-UserName:101 ##
-Password: agarwal123 ##
+Admin
+------
+100 /*djain123*/
+101 /*agarwal123*/
+
+
+NCO
+-----
+113 /*ajay123*/
+114 /*usmani123*/
+117 /*bijapur123*/
+
+
+CID
+------
+115 /*sukali123*/
+116 /*attar123*/
+110 /*shaikh123*/
