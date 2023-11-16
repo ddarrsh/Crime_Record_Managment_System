@@ -45,9 +45,9 @@ MySQL <br />
 Requirements<br />
 <br />
 <ul>
-<li>1.Download and Install any local web server such as XAMPP/WAMP.</li>
-<li>2. Download the provided source code zip file. (download button is located below. </li>
-<li>3  Installation/Setup </li>
+<li> Download and Install any local web server such as XAMPP/WAMP.</li>
+<li> Download the provided source code zip file. (download button is located below. </li>
+<li> Installation/Setup </li>
 </ul>
 
 <br />
