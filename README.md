@@ -58,21 +58,21 @@ Installation/Setup
 7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.
 
 
-Admin
+Admin 
 ------
-100 - djain123
-101 - agarwal123
+100 - djain123  <br />
+101 - agarwal123 <br />
 
 
 NCO
 -----
-113 - ajay123
-114 - usmani123
-117 - bijapur123
+113 - ajay123 <br />
+114 - usmani123 <br />
+117 - bijapur123 <br />
 
 
 CID
 ------
-115 - sukali123
-116 - attar123
-110 - shaikh123
+115 - sukali123 <br />
+116 - attar123 <br />
+110 - shaikh123 <br />
