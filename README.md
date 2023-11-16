@@ -4,24 +4,24 @@ This repository hosts a comprehensive Database Management System (DBMS) project 
 
 Key Features: <br />
   <br />
-  Admin <br />
+  Admin <br /><br />
     Admin Dashboard <br />
     View Staff List <br />
     Assign case to CID Officer <br />
-    Manage Account <br />
-  NCO<br />
+    Manage Account <br /><br /><br />
+  NCO<br /><br />
     NCO Dashboard <br />
     Register a Complain <br />
     View list of complains <br />
     View details of case investigation <br />
     Assign a case CID Officer <br />
-    Manage Account/Change Password <br />
-  CID<br />
+    Manage Account/Change Password <br /><br /><br />
+  CID<br /><br />
     CID Dashboard <br />
     View list of cases assigned <br />
     View details of case investigation <br />
     Write a report on the case being investigated <br />
-    Manage Account/Change Password <br />
+    Manage Account/Change Password <br /><br /><br />
 
 Technologies Used: Our project employs a robust tech stack including PHP, HTML, JavaScript, CSS, and MySQL. PHP ensures dynamic data processing, while HTML and CSS contribute to the user-friendly interface. JavaScript enhances interactivity and a smooth user experience. MySQL acts as the backend database, ensuring secure data storage and retrieval. <br />
 
