@@ -44,17 +44,20 @@ MySQL <br />
 <br />
 Requirements<br />
 <br />
-Download and Install any local web server such as XAMPP/WAMP.<br />
-Download the provided source code zip file. (download button is located below)<br />
-Installation/Setup<br />
+<ul>
+<li>Download and Install any local web server such as XAMPP/WAMP.</li>
+<li>Download the provided source code zip file. (download button is located below. </li>
+<li>Installation/Setup </li>
+</ul>
 
-1.Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.<br />
-2.Extract the downloaded source code zip file.<br />
-3.If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.<br />
-4.Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin<br />
-5.Create a new database naming bijapurpolice.<br />
-6.Import the provided SQL file. The file is known as ghpolice.sql located inside the DB File folder.<br />
-7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.<br />
+<br />
+1.Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.<br /><br />
+2.Extract the downloaded source code zip file.<br /><br />
+3.If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.<br /><br />
+4.Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin<br /><br />
+5.Create a new database naming bijapurpolice.<br /><br />
+6.Import the provided SQL file. The file is known as ghpolice.sql located inside the DB File folder.<br /><br />
+7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.<br /><br />
 
 <br />
 Admin 
